@@ -10,6 +10,8 @@ author: kryde
 
 Python Hell me
 
-```Python
-print("Hello World")
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 ```
