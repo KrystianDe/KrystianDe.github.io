@@ -10,8 +10,8 @@ author: kryde
 
 Hell me
 
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
+```tsql
+SELECT *
+FROM sys.tables
+WHERE [name] = 'SomeTable'
+```
