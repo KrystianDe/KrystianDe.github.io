@@ -1,8 +1,8 @@
 ---
 title: Hello World
 date: 2025-08-07
-categories: [OCI, Mirror, Spegel]
-tags: [OCI, Mirror, Spegel]
+categories: [SQL]
+tags: [SQL]
 author: kryde
 ---
 
