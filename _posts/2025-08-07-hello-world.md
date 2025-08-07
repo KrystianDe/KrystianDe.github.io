@@ -9,3 +9,9 @@ author: kryde
 # Hello World 
 
 Hell me
+
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
