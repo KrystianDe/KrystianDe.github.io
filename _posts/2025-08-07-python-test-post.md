@@ -14,3 +14,8 @@ Python Hell me
  for i in range(10):
  print("ewae")
 ```
+
+```sql
+SELECT *
+FROM table
+```
