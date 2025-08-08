@@ -10,8 +10,7 @@ author: kryde
 
 Python Hell me
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```python
+ for i in range(10):
+ print("ewae")
 ```
