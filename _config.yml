@@ -86,6 +86,6 @@ tag_archive:
   path: /tags/
 
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-title
-title: John Doe's blog # FIXME Replace with your blog title.
+title: Data Fossa blog # FIXME Replace with your blog title.
 
-url: # FIXME Add your blog URL (e.g. https://gwenneg.github.io).
+url: https://krystiande.github.io
