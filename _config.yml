@@ -11,7 +11,7 @@ asciidoctor:
 
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-author
 author:
-  avatar: /assets/images/avatar.png # FIXME Replace with your avatar.
+  avatar:  #  /assets/images/avatar.pngFIXME Replace with your avatar.
   bio: I are programmer. I make computer beep boop beep beep boop. # FIXME Replace with your bio.
   github: # FIXME Add your GitHub username or remove this line.
   linkedin: # FIXME Add your Linkedin username or remove this line.
