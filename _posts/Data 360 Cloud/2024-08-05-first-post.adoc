@@ -6,8 +6,8 @@
 
 
 
-== Data Staging Objects (DSOs)
+== Data Staging Object (DSO)
 
-== DLO 
+== Data Lake Object (DLO) 
 
-== DMO
+== Data Model Object (DMO)
