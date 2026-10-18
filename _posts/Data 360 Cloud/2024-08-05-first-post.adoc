@@ -1,14 +1,13 @@
-= First Data 360 post
+= DSO, DLO, and DMO
 :imagesdir: /assets/images/posts/first-post
 :page-excerpt: This is the very first post of this blog!
 :page-tags: [asciidoc, demo]
 :revdate: 2024-08-05
 
-Here's a quick demo of a few features from https://asciidoc.org[AsciiDoc^].
 
 
+== Data Staging Objects (DSOs)
 
-== DSO, DLO, and DMO
+== DLO 
 
-The code can be included as an inline snippet such as `this`.
-
+== DMO
