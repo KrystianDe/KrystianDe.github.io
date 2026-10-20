@@ -1,0 +1,9 @@
+= DSO, DLO, and DMO
+:imagesdir: /assets/images/posts/first-post
+:page-excerpt: This is the very first post of this blog!
+:page-tags: [Salesforce, Data 360]
+:revdate: 2024-08-05
+
+
+
+== Data Trnsformation
