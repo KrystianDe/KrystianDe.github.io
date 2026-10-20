@@ -1,4 +1,4 @@
-= DSO, DLO, and DMO
+= Data Transformation in Data 360
 :imagesdir: /assets/images/posts/first-post
 :page-excerpt: This is the very first post of this blog!
 :page-tags: [Salesforce, Data 360]
@@ -6,4 +6,4 @@
 
 
 
-== Data Trnsformation
+== Data Transformation
