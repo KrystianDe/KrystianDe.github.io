@@ -1,0 +1,8 @@
+= Read CSV Files in Databricks
+:imagesdir: /assets/images/posts/first-post
+:page-excerpt: This is the very first post of this blog!
+:page-tags: [Databricks]
+:revdate: 2026-10-26
+
+
+To upload any file we need to create a volume 
