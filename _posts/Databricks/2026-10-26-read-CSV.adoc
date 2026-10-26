@@ -6,3 +6,7 @@
 
 
 To upload any file we need to create a volume 
+
+new folder 
+
+this is plce where we uplare our files 
