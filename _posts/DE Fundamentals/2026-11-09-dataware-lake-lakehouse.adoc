@@ -1,0 +1,7 @@
+= Data Warehouse vs Data Lake vs Lakehouse
+:imagesdir: /assets/images/posts/first-post
+:page-excerpt: Data Warehouse vs Data Lake vs Lakehouse
+:page-tags: [Data Engineering]
+:revdate: 2026-11-09
+
+
